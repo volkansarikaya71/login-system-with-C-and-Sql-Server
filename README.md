@@ -1,2 +1,3 @@
-# login-system-with-C-and-Sql-Server
-login system with C# and Sql Server
+Requirements
+-Sql Server and visual studio 2019 
+
