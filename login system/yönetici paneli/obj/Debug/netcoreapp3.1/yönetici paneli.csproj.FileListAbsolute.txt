@@ -1,0 +1,12 @@
+C:\Users\volka\source\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.csprojAssemblyReference.cache
+C:\Users\volka\source\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici_paneli.Form1.resources
+C:\Users\volka\source\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.csproj.GenerateResource.cache
+C:\Users\volka\source\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.AssemblyInfoInputs.cache
+C:\Users\volka\source\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.AssemblyInfo.cs
+C:\Users\volka\source\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.csproj.CoreCompileInputs.cache
+C:\Users\vs\Desktop\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.csprojAssemblyReference.cache
+C:\Users\vs\Desktop\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici_paneli.Form1.resources
+C:\Users\vs\Desktop\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.csproj.GenerateResource.cache
+C:\Users\vs\Desktop\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.AssemblyInfoInputs.cache
+C:\Users\vs\Desktop\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.AssemblyInfo.cs
+C:\Users\vs\Desktop\repos\yönetici paneli\yönetici paneli\obj\Debug\netcoreapp3.1\yönetici paneli.csproj.CoreCompileInputs.cache
